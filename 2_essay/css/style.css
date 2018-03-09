@@ -1,0 +1,38 @@
+body {
+  background-color: Peachpuff;
+  width: 800px;
+  margin:
+  margin-top: 400px;
+  font-family: sans-serif;
+  font-family: arial;
+  font-size: 50;
+}
+
+p { font-size: 20;
+font-family: 35;
+text-align: center;
+}
+
+blockquote {
+
+  font-size: 280px;
+  padding: 20px;
+  width: 2000px;
+  height: 3000px;
+  margin: 40px;
+  border: 2px solid green;
+
+}
+
+
+h1 {
+  font-family: helvetica;
+  font-size: 45px;
+
+  margin: 40px;
+  border: 2px solid green;
+  background-color: yellow;
+ text-transform: uppercase;
+ text-align: center;
+
+}

@@ -1,0 +1,17 @@
+body {
+  background-color:  teal;
+
+}
+
+h1 {
+  font-size:200pt;text-shadow: 5px 5px #ff0000;
+  color:aqua;
+}
+
+p {
+  font-size: 35px;
+}
+
+a {
+  color:green;
+}

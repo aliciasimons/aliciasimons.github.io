@@ -1,0 +1,18 @@
+body {
+  background-color:  aqua;
+  text-align: center;
+}
+
+h1 {
+  font-size:100pt;
+  text-shadow: 5px 5px #ff0000;
+  color:yellow;
+}
+
+p {
+  font-size: 25px;
+}
+
+a {
+  color:green;
+}
