@@ -1,5 +1,5 @@
 body {
-  background-color:  aqua;
+  background-color:  white;
   text-align: center;
 }
 
@@ -7,12 +7,37 @@ h1 {
   font-size:100pt;
   text-shadow: 5px 5px #ff0000;
   color:yellow;
+  font-style: helvetica;
+}
+
+h2  {
+
+  font-size: 35;
+  color: blue;
+
+
+}
+
+h3 {
+
+font-size; 45;
+color: blue;
+}
+
+
+h4 {
+
+font-size: 55
+color: blue;
 }
 
 p {
   font-size: 25px;
+  font-style: helvetica;
+  color: blue;
+
 }
 
 a {
-  color:green;
+  color:blue;
 }
