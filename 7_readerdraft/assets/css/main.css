@@ -1,0 +1,292 @@
+body{
+
+  padding-left: 130px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+padding-top: 30px;
+
+}
+
+
+
+#menu a {
+  color:#000;
+  text-decoration: none;
+  font: 30px sans-serif;
+}
+
+#menu {
+  position: fixed;
+  left:10px;
+  top:10px;
+  background-color: peachpuff;
+}
+
+
+/* page 1 */
+
+.text {
+  font: 50px serif;
+  margin-bottom: 20px;
+}
+
+.panel {
+  height:100vh;
+  width: 50vw;
+  overflow: scroll;
+  padding: 20px;
+
+
+}
+
+.left {
+  background-color: white;
+  font-size: 10pt;
+  color: black;
+  text-align: left;
+    padding: 20px;
+
+}
+
+.right {
+  background-color: white;
+  position: absolute;
+  right:10pt;
+  top:10pt;
+    padding: 20px;
+
+}
+
+
+
+
+/* page 2 */
+
+
+.shits{
+
+}
+
+.red{
+  background-color: red;
+}
+
+.blue{
+    background-color:blue;
+
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.orange{
+  background-color: orange;
+}
+
+.green{
+  background-color: green;
+}
+
+.indigo{
+  background-color: indigo;
+}
+
+.violet{
+  background-color: violet;
+}
+
+
+.pop {
+  width: 500px;
+  height:300px;
+}
+
+.p-sub {
+
+  position: fixed;
+  bottom:0;
+  right:0;
+  display: none;
+}
+
+.p-bye {
+
+  position: fixed;
+  left:5000px;
+  top:100px;
+  display: none;
+}
+
+
+.p-one {
+
+  position: fixed;
+  left:30px;
+  top:500px;
+  display: none;
+}
+
+.p-two {
+
+  position: fixed;
+  left:70px;
+  top:900px;
+  display: none;
+}
+
+.p-three {
+
+  position: fixed;
+  left:300px;
+  top:500px;
+  display: none;
+}
+
+.p-four {
+
+  position: fixed;
+  left:2px;
+  top:50px;
+  display: none;
+}
+
+.p-five {
+
+  position: fixed;
+  left:100px;
+  top:76px;
+  display: none;
+}
+
+.p-six {
+
+  position: fixed;
+  left:240px;
+  top:250px;
+  display: none;
+}
+
+.p-seven {
+
+  position: fixed;
+  left:300px;
+  top:750px;
+  display: none;
+}
+
+.p-eight {
+
+  position: fixed;
+  left:24px;
+  top:800px;
+  display: none;
+}
+
+.p-nine {
+
+  position: fixed;
+  left:80px;
+  top:670px;
+  display: none;
+}
+
+.p-ten {
+
+  position: fixed;
+  left:489px;
+  top:20px;
+  display: none;
+}
+
+
+.p-eleven {
+
+  position: fixed;
+  left:230px;
+  top:50px;
+  display: none;
+}
+
+.p-twelve {
+
+  position: fixed;
+  left:130px;
+  top:200px;
+  display: none;
+}
+
+.p-thirteen {
+
+  position: fixed;
+  left:430px;
+  top:300px;
+  display: none;
+}
+
+.p-fourteen{
+
+  position: fixed;
+  left:80px;
+  top:1000px;
+  display: none;
+}
+
+.p-fifteen {
+
+  position: fixed;
+  left:221px;
+  top:130px;
+  display: none;
+}
+
+.p-sixteen{
+
+  position: fixed;
+  left:1px;
+  top:700px;
+  display: none;
+}
+
+.p-seventeen {
+
+  position: fixed;
+  left:78px;
+  top:600px;
+  display: none;
+}
+
+.p-eighteen {
+
+  position: fixed;
+  left:130px;
+  top:800px;
+  display: none;
+}
+
+.p-nineteen {
+
+  position: fixed;
+  left:472px;
+  top:500px;
+  display: none;
+}
+
+.p-twenty {
+
+  position: fixed;
+  left:68px;
+  top:350px;
+  display: none;
+}
+
+
+.message {
+  padding: 20px;
+  font-size:100px;
+  font-family: arial;
+}
+
+.show {
+  display: block;
+}

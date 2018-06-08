@@ -3,41 +3,53 @@ body {
   text-align: center;
 }
 
-h1 {
-  font-size:100pt;
-  text-shadow: 5px 5px #ff0000;
-  color:yellow;
-  font-style: helvetica;
-}
+.home{
 
-h2  {
 
-  font-size: 35;
-  color: blue;
+
+
+.essay{
+
 
 
 }
 
-h3 {
 
-font-size; 45;
-color: blue;
-}
-
-
-h4 {
-
-font-size: 55
-color: blue;
-}
-
-p {
-  font-size: 25px;
-  font-style: helvetica;
-  color: blue;
+.repostresearch{
 
 }
 
-a {
-  color:blue;
+
+.repostdraft{
+
+}
+
+.actualrepost{
+
+}
+
+.archivedraft{
+
+}
+
+
+.archive{
+
+}
+
+.readerresearch{
+
+}
+
+.readerdraft{
+
+}
+
+.actualreader{
+
+
+}
+
+.comment{
+
 }
